@@ -1,0 +1,9 @@
+# Claude 本地设置(不入库)
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
